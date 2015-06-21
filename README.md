@@ -1,7 +1,7 @@
 # collegeTask
 you code because you love it
 <br>
-@Depricated（废弃）
+@Depricated（废弃）<br>
 1.登录url为http://115.28.65.99/collegeTask/login.php
 
   传入方法  POST <br>
@@ -14,7 +14,7 @@ you code because you love it
   返回结果成功示例：{"code":1,"username":"zp"}<br>
 
 
-2.ajax（重要）
+2.ajax（重要）<br>
   测试：访问  http://115.28.65.99/collegeTask/ajaxTest/test.html <br>
   输入用户名：zp 密码：zp 返回json  {"message":"true","code":"0"}  输入错误返回  {"message":"false","code":"1"} <br>
   详细请参考test.html代码<br>
