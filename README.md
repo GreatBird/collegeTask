@@ -1,7 +1,7 @@
 # collegeTask
 you code because you love it
 <br>
-1.登录url为http://115.28.65.99/collegeTask/login.jsp 
+1.登录url为http://115.28.65.99/collegeTask/login.php
 
   传入方法  POST <br>
   传入参数名 username  password<br>
